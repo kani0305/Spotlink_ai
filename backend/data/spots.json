@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "ownerName": "Ramesh Kumar",
+    "title": "Covered driveway near bus stand",
+    "address": "Fairlands, Salem",
+    "lat": 11.6739,
+    "lng": 78.146,
+    "pricePerHour": 20,
+    "type": "Covered",
+    "available": false
+  },
+  {
+    "id": "2",
+    "ownerName": "Priya S",
+    "title": "Open yard space, 2-wheeler & 4-wheeler",
+    "address": "Hasthampatti, Salem",
+    "lat": 11.658,
+    "lng": 78.159,
+    "pricePerHour": 15,
+    "type": "Open",
+    "available": true
+  },
+  {
+    "id": "3",
+    "ownerName": "Suresh M",
+    "title": "Gated compound, CCTV monitored",
+    "address": "Five Roads, Salem",
+    "lat": 11.6643,
+    "lng": 78.1462,
+    "pricePerHour": 30,
+    "type": "Gated",
+    "available": false
+  },
+  {
+    "id": "1790326055855",
+    "ownerName": "kanimozhi",
+    "title": "Near old bus stand",
+    "address": "puthu bus stand, salem",
+    "lat": 4,
+    "lng": -1,
+    "pricePerHour": 100,
+    "type": "Covered",
+    "available": true
+  }
+]
